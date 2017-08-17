@@ -1,0 +1,10 @@
+#Database credentials
+export PSQL_USER=
+#export PSQL_PASSWORD= #Uncomment this if your database mandates the use of passwords
+export PSQL_HOST=localhost
+
+#Twitter credentials
+export TWITTER_CONSUMER_KEY=
+export TWITTER_CONSUMER_SECRET=
+export TWITTER_ACCESS_TOKEN=
+export TWITTER_ACCESS_TOKEN_SECRET=
